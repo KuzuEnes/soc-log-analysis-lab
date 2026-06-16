@@ -25,3 +25,8 @@ Bu çalışmada saldırıların loglarda nasıl göründüğünü, alert triage 
 01-soc-basics/
 02-log-analysis/
 03-detection-rules
+
+
+## Completed Cases
+
+- [Mini SOC Case Report 01 - SSH Brute Force and Web Recon Activity](01-soc-basics/final-case/mini-soc-case-report-01.md)
